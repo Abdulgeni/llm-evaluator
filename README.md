@@ -19,7 +19,7 @@ Compare two AI-generated answers side-by-side. Scores responses on factual accur
 
 Python | Streamlit | Gemini 2.5 Flash | Google GenAI SDK
 
-## Quick Start
+## Quick Start for the program
 
 ```bash
 git clone https://github.com/Abdulgeni/llm-evaluator.git
